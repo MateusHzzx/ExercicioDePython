@@ -1,0 +1,6 @@
+frase= str (input('digite uma frase '))
+t=frase.lower()
+c=t.count('a')
+f=t.find('a')
+f2=t.rfind('a')
+print(f'a frase {frase} possui uma quantidade de {c} A e oseu primeiro A é encontrado em {f} e o seu ultimo em {f2}')

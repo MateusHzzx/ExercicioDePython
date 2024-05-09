@@ -1,0 +1,5 @@
+n1 = input('numero')
+print (type(n1))
+print(n1.isnumeric())
+print(n1.isalpha())
+print(n1.isdigit())
