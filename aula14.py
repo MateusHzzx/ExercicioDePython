@@ -17,5 +17,5 @@ while n!=0:
             par+=1
         else:
             impar+=1
-print(f'a quantidade de números pares é de {par}')
-print (f'já a quantidade de números impares é de {impar}')
+print(f'a quantidade de números pares é de {par}!')
+print (f'já a quantidade de números impares é de {impar}!')

@@ -9,6 +9,6 @@ for c in range(0,7):
         maior+=1
     else:
         menor+=1
-print(f'''no total foram
-{maior} maiores de idade e 
+print(f'''no total foram:
+{maior} maiores de idade
 {menor} menores de idade''')

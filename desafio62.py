@@ -11,6 +11,6 @@ while mt !=0:
         cont+=1
     print()
 
-    mt=int(input('quantos termos voc~e deseja a mais?'  'digite 0 para sair'))
+    mt=int(input('quantos termos você deseja a mais?'  'digite 0 para sair'))
     tt+=mt
 print ('programa encerrado!')
